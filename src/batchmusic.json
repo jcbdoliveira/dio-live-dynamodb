@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "The Offspring"},
+                  "SongTitle": {"S": "Gotta Get Away"},
+                  "AlbumTitle": {"S": "Smash"},
+                  "SongYear": {"S": "1994"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "The Offspring"},
+                  "SongTitle": {"S": "Gotta Get Away"},
+                  "AlbumTitle": {"S": "The Offspring Greatest Hits"},
+                  "SongYear": {"S": "2005"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "The Offspring"},
+                  "SongTitle": {"S": "Hammerhead"},
+                  "AlbumTitle": {"S": "Rise and Fall, Rage and Grace"},
+                  "SongYear": {"S": "2008"}
                 }
             }
         }
